@@ -3,7 +3,7 @@
         <h1 class="text-2xl font-bold mb-6">Mis Contactos</h1>
 
         <a href="{{ route('contactos.create') }}"
-           class="inline-block mb-4 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">
+           class="inline-block mb-4 bg-green-600 text-orange-700 px-4 py-2 rounded hover:bg-green-700">
             Nuevo Contacto
         </a>
 
