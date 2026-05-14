@@ -58,10 +58,10 @@
 
             <div class="flex gap-4">
                 <button type="submit"
-                        class="bg-yellow-600 text-white px-4 py-2 rounded hover:bg-yellow-700">
+                        class="bg-yellow-600 text-orange-500 px-4 py-2 rounded hover:bg-yellow-700">
                     Actualizar Contacto
                 </button>
-                <a href="{{ route('contactos.index') }}" class="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">
+                <a href="{{ route('contactos.index') }}" class="bg-gray-500 text-orange-600 px-4 py-2 rounded hover:bg-gray-600">
                     Cancelar
                 </a>
             </div>
